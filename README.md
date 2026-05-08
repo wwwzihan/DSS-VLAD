@@ -1,2 +1,4 @@
-# When Semantics Are Unreliable:  
-Decoupled Spatial-Semantic VLAD Aggregation for Heterogeneous Image Geo-localization
+<h1 align="center">
+  When Semantics Are Unreliable:<br>
+  Decoupled Spatial-Semantic VLAD Aggregation for Heterogeneous Image Geo-localization
+<h1>
