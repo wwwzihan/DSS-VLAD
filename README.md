@@ -1,7 +1,8 @@
-# DSS-VLAD: Supplementary Code
-
-This repository contains the supplementary code for **DSS-VLAD: Decoupled
-Spatial-Semantic VLAD Aggregation for Heterogeneous Image Geo-localization**.
+<h1 align="center">
+  When Semantics Are Unreliable:<br>
+  Decoupled Spatial-Semantic VLAD Aggregation<br>
+  for Heterogeneous Image Geo-localization
+<h1>
 
 ## Contents
 
