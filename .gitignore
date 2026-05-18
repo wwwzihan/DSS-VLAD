@@ -1,0 +1,41 @@
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Codex/agent local metadata
+.agents/
+.codex/
+
+# Runtime outputs / experiment artifacts
+logs/
+checkpoints/
+runs/
+wandb/
+outputs/
+results/
+
+# Datasets / large model artifacts
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.tar
+*.zip
+*.npz

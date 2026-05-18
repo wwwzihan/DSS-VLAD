@@ -1,0 +1,37 @@
+Additional third-party notices
+==============================
+
+This file summarizes additional source-attributed components present in the
+supplementary code package. Where full license text is not reproduced here, the
+license name and upstream source are recorded so the public release can be
+audited against the exact upstream version used.
+
+Synchronized-BatchNorm-PyTorch
+------------------------------
+
+Source: https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
+License: MIT License
+Copyright notice from upstream README:
+Copyright (c) 2018-, Jiayuan Mao.
+
+NetVLAD-pytorch
+---------------
+
+Source: https://github.com/lyakaap/NetVLAD-pytorch
+License: MIT License
+Relevant file in this package: `model/aggregation.py` notes that the NetVLAD
+implementation is based on this project.
+
+pytorch-image-models / timm
+---------------------------
+
+Source: https://github.com/huggingface/pytorch-image-models
+License: Apache License 2.0
+Copyright notice from upstream license:
+Copyright 2019 Ross Wightman
+
+Some CCT helper/stochastic-depth/transformer utilities in this package contain
+source comments attributing portions to timm / pytorch-image-models.
+
+For a future public release, verify the exact upstream revisions and replace
+this summary with complete license texts and any required NOTICE files.
